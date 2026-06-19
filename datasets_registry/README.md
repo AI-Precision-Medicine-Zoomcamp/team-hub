@@ -6,5 +6,5 @@ GitHub is not a data lake. This directory contains the **code** to fetch and cle
 | Dataset | Source | Access / URI | Maintainer |
 | :--- | :--- | :--- | :--- |
 | Open Targets | EBI | `TBD (Cloud Bucket / Shared Drive)` | [Platform Lead] |
-| ClinVar | NCBI | `TBD` | Ankita |
-| PubMed | NCBI | `TBD` | Saleh |
+| ClinVar | NCBI | `TBD` | <> |
+| PubMed | NCBI | `TBD` | <> |
