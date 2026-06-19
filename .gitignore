@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.csv
+*.json
+*.parquet
+*.xml
+.DS_Store
